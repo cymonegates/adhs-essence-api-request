@@ -1,7 +1,7 @@
 # ADHS ESSENCE R Scripts
 
 # Overview
-If you are an authorized BioSense Platform user, you can use this R script to connect to the Platform and pull down your query results into R for automated extracts or analysis. 
+If you are an authorized BioSense Platform user, you can use the R scripts in this repository to connect to the Platform and pull down your query results into R.
 
 Context: Syndromic surveillance is a public health strategy used to, in near- real time, detect and monitor health events in a community using healthcare facility visit data. In partnership with local and state jurisdictions, the Centers for Disease Control and Prevention (CDC) have made syndromic surveillance data available through a program called the National Syndromic Surveillance Program (NSSP). The NSSP hosts the cloud-based BioSense Platform, a secure integrated electronic health information system with analytic tools including the Electronic Surveillance System for the Early Notification of Community-Based Epidemics (ESSENCE). These tools enable users to rapidly collect, evaluate, share, and store syndromic surveillance data. Access is restricted to those public health and partner organizations that require access to perform their job duties.
 

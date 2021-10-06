@@ -1,4 +1,4 @@
-# ADHS ESSENCE R Scripts
+# ADHS ESSENCE API Data Pull Scripts
 
 # Overview
 If you are an authorized BioSense Platform user, you can use the R scripts in this repository to connect to the Platform and pull down your query results into R.
